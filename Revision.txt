@@ -5,4 +5,7 @@ Eliminado de llave foranea
 Consulta
 - union de tabla paciente(campo dni) con la tabla his_atenciones( campo nro_doc) o no es necesario
 
+Estandar_Utilizado
+http://adrianconza.com/estandares-de-bases-de-datos/
+
 
