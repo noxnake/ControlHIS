@@ -2,5 +2,7 @@ TABLA IPRESS
 - tipos de datos cambiado de nvarchar a varchar
 Eliminado de llave foranea 
 - elimiancion de la llave foranea entre m_financiador y HIS_atenciones
+Consulta
+- union de tabla paciente(campo dni) con la tabla his_atenciones( campo nro_doc) o no es necesario
 
 
