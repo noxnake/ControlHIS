@@ -37,5 +37,6 @@ Control de calidad HIS
 - datos repetidos, eliminados por la fehca de ingreso mas recientes,cod_cond  menor, cod_prof mayor, cod_2000 mayor
 8. Tabla ubigeo 
 - Datos subidos los restantes
+-agregados de 0 a los id hasta que tenga longitud 6
 9. Agregar Primary key a todas las tablas
 10. Agregar Foreign key
